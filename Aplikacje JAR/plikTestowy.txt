@@ -1,0 +1,4 @@
+Treść testowa, której sygnaturę będziemy generować!
+TEST!
+TEST!
+TEST!
